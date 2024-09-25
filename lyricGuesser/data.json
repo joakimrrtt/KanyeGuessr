@@ -6,9 +6,39 @@
         "difficulty": "easy"
     },
     {
+        "lyric": "I miss the old Kanye, straight from the 'Go Kanye.",
+        "hint": "I love _____",
+        "answer": "I love kanye",
+        "difficulty": "easy"
+    },
+    {
         "lyric": "Beautiful mornin', you're the sun in my mornin', babe (Who can I turn to?)",
         "hint": "Metro Boomin",
         "answer": "Father stretch my hands pt 1",
+        "difficulty": "easy"
+    },
+    {
+        "lyric": "Now if I fucked this model. And she just bleached her asshole.",
+        "hint": "TLOP most streamed",
+        "answer": "Father stretch my hands pt 1",
+        "difficulty": "easy"
+    },
+    {
+        "lyric": "Welcome to the good life / Where niggas that sell D",
+        "hint": "Lavish",
+        "answer": "Good life",
+        "difficulty": "easy"
+    },
+    {
+        "lyric": "I feel the pressure, under more scrutiny. And what I do? Act more stupidly",
+        "hint": "Silence",
+        "answer": "Can't tell me nothing",
+        "difficulty":  "easy"
+    },
+    {
+        "lyric": "Gotta testify, come up in the spot looking extra fly",
+        "hint": "Feeling",
+        "answer": "Touch the sky",
         "difficulty": "easy"
     },
     {
@@ -27,6 +57,18 @@
         "lyric": "Through the fire, to the limit, to the wall. For a chance to be with you, I'd gladly risk it all",
         "hint": "car crash",
         "answer": "Through the Wire",
+        "difficulty": "easy"
+    },
+    {
+        "lyric": "You know what the Midwest is? / Young & restless",
+        "hint": "Bible Trip",
+        "answer": "Jesus Walks",
+        "difficulty":  "easy"
+    },
+    {
+        "lyric": "I've been workin' this graveshift and I ain't made shit / I wish I could buy me a spaceship and fly past the sky",
+        "hint": "transport",
+        "answer": "spaceship",
         "difficulty": "easy"
     },
     {
@@ -66,15 +108,81 @@
         "difficulty": "medium"
     },
     {
+        "lyric": "That's just the wave.",
+        "hint": "Surfing",
+        "answer": "Waves",
+        "difficulty": "medium"
+    },
+    {
         "lyric": "I love your titties 'cause they prove. I can focus on two things at once",
         "hint": "Warfare",
         "answer": "All Mine",
         "difficulty": "medium"
     },
     {
+        "lyric": "I just wanted you to know. I loved you better than your own kin did",
+        "hint": "18+ Music Video",
+        "answer": "Famous",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "Ayy, y'all heard about the good news? Y'all sleeping on me, huh? Had a good snooze?",
+        "hint": "Reply",
+        "answer": "Feedback",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "I got borads in Atlanta. Twisting dope, lean, and the Fanta.",
+        "hint": "Panda",
+        "answer": "Pt. 2",
+        "difficulty": "medium"
+    },
+    {
         "lyric": "I hope he's bright and big and strong.",
         "hint": "Space.",
         "answer": "Stars",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "Ooh, girl your breath is harsh / Cover your mouth up like you got SARS",
+        "hint": "fitness",
+        "answer": "The new workout plan",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "She got a light skinned friend look like Michael Jackson / Got a dark skinned friend look like Michael Jackson",
+        "hint": "Jamie Foxx",
+        "answer": "Slow Jams",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "Somebody ordered pancakes I just sip the sizzurp",
+        "hint": "car crash",
+        "answer": "Through the Wire",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "I was three years old, when you and I moved to the Chi",
+        "hint": "Idol",
+        "answer": "Hey Mama",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "When I shop so much I can speak Italian",
+        "hint": "King   ",
+        "answer": "Champion",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "Let's get lost tonight. You could be my black Kate Moss tonight",
+        "hint": "Gym",
+        "answer": "Stronger",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "They wish I would go ahead and fuck my life up",
+        "hint": "The weeknd",
+        "answer": "FML",
         "difficulty": "medium"
     },
     {
@@ -99,6 +207,12 @@
         "lyric": "We get this bitch shaking like Parkinsons",
         "hint": "Watching",
         "answer": "On Sight",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "I met Kanye West, I'm never going to fail.",
+        "hint": "BeamNG",
+        "answer": "Ultralight Beam",
         "difficulty": "medium"
     },
     {
@@ -165,6 +279,84 @@
         "lyric": "This is something like the Holocaust. Millions of our people lost.",
         "hint": "I can't stop",
         "answer": "Who gon stop me",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "If Magic Johnson got a cure for AIDS",
+        "hint": "grandma",
+        "answer": "Roses",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "So i can't jeopardize that for one of these hoes",
+        "hint": "The of week",
+        "answer": "FML",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "Sun don't shine in the shade. Bird can't fly in a cage.",
+        "hint": "Water",
+        "answer": "Waves",
+        "difficulty": "Hard"
+    },
+    {
+        "lyric": "For ever ever? For ever ever? Ever ever?",
+        "hint": "Mining",
+        "answer": "Diamonds from sierra leone",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "Good Morning, this ain't Vietnam still. People lose hands, legs, arms for real",
+        "hint": "mining",
+        "answer": "Diamonds from sierra leone",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "Bow in the presence of greatness",
+        "hint": "Hit",
+        "answer": "Stronger",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "You persecute the weak. Because it makes you feel so strong.",
+        "hint": "SciFi Weapon",
+        "answer": "Ultralight Beam",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "Father, this prayer is for everyone that feels they're not good enough",
+        "hint": "Mega Dark",
+        "answer": "Ultralight Beam",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "I love him so much with all my heart and my soul. With every bone in my body I love him so much.",
+        "hint": "Brightness",
+        "answer": "Low lights",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "Tell my mama, tell my mama. That I only want my whole life to be mine.",
+        "hint": "Low lights",
+        "answer": "Highlights",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "You mothafuckers livin' like half of your level, half of your life.",
+        "hint": "Improvising",
+        "answer": "Freestyle",
+        "difficulty": "hard"
+    },
+    {
+        "lyric": "I love your titties 'cause they prove. I can focus on two things at once",
+        "hint": "Warfare",
+        "answer": "All Mine",
+        "difficulty": "medium"
+    },
+    {
+        "lyric": "Couldn't tell you how old your daughter was. Couldn't tell you how old your son is",
+        "hint": "BBF",
+        "answer": "Real Friends",
         "difficulty": "hard"
     }
     
